@@ -1,0 +1,36 @@
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.Data.dll.config
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.Data.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.Data.pdb
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.pdb
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Data\obj\Debug\Iniciacao.Data.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Data\obj\Debug\Iniciacao.Data.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Data\obj\Debug\Iniciacao.Data.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.Data.dll.config
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.Data.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.Data.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\EntityFramework.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\EntityFramework.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Data\obj\Debug\Iniciacao.Data.csprojResolveAssemblyReference.cache
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Data\obj\Debug\Iniciacao.Data.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Data\obj\Debug\Iniciacao.Data.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.Data.dll.config
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.Data.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.Data.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Data\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Data\bin\Debug\Iniciacao.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Data\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Data\obj\Debug\Iniciacao.Data.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Data\obj\Debug\Iniciacao.Data.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Data\obj\Debug\Iniciacao.Data.pdb

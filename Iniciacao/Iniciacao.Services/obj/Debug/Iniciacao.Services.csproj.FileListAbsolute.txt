@@ -1,0 +1,33 @@
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.Services.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.Services.pdb
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.Data.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.Data.pdb
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.pdb
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Services\obj\Debug\Iniciacao.Services.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Services\obj\Debug\Iniciacao.Services.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.Services\obj\Debug\Iniciacao.Services.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.Services.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.Services.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.Data.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\EntityFramework.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.Data.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Services\bin\Debug\EntityFramework.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Services\obj\Debug\Iniciacao.Services.csprojResolveAssemblyReference.cache
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Services\obj\Debug\Iniciacao.Services.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.Services\obj\Debug\Iniciacao.Services.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.Services.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.Services.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.Data.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Services\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.Data.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Services\bin\Debug\Iniciacao.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Services\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Services\obj\Debug\Iniciacao.Services.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Services\obj\Debug\Iniciacao.Services.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.Services\obj\Debug\Iniciacao.Services.pdb

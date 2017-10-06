@@ -1,0 +1,13 @@
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao\bin\Debug\Iniciacao.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao\bin\Debug\Iniciacao.pdb
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao\obj\Debug\Iniciacao.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao\obj\Debug\Iniciacao.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao\bin\Debug\Iniciacao.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao\bin\Debug\Iniciacao.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao\obj\Debug\Iniciacao.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao\obj\Debug\Iniciacao.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao\bin\Debug\Iniciacao.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao\bin\Debug\Iniciacao.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao\obj\Debug\Iniciacao.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao\obj\Debug\Iniciacao.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao\obj\Debug\Iniciacao.Core.csprojResolveAssemblyReference.cache

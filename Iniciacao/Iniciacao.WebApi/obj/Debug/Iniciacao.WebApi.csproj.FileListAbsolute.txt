@@ -1,0 +1,197 @@
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\ApplicationInsights.config
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\csc.exe
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\vbc.exe
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.WebApi.dll.config
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.WebApi.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.WebApi.pdb
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Helpers.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Http.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Mvc.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Optimization.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Razor.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\WebGrease.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Helpers.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Http.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Mvc.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Optimization.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Razor.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\obj\Debug\Iniciacao.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\obj\Debug\Iniciacao.WebApi.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Iniciacao\Iniciacao.WebApi\obj\Debug\Iniciacao.WebApi.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\ApplicationInsights.config
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\csc.exe
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\vbc.exe
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.WebApi.dll.config
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.WebApi.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.WebApi.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Antlr3.Runtime.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Helpers.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Http.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Mvc.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Optimization.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Razor.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\WebGrease.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Helpers.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Http.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Mvc.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Optimization.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.Razor.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\obj\Debug\Iniciacao.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\obj\Debug\Iniciacao.WebApi.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\obj\Debug\Iniciacao.WebApi.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.Services.dll
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.Services.pdb
+C:\Users\ltede\Documents\Visual Studio 2015\Projects\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\ApplicationInsights.config
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\roslyn\csc.exe
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\roslyn\vbc.exe
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.WebApi.dll.config
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.WebApi.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.WebApi.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.Services.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Ninject.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Ninject.Web.Common.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Ninject.Web.Mvc.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.Helpers.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.Http.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.Mvc.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.Optimization.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.Razor.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\WebActivatorEx.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\WebGrease.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.Services.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Ninject.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Ninject.Web.Common.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Ninject.Web.Mvc.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.Helpers.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.Http.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.Mvc.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.Optimization.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.Razor.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\obj\Debug\Iniciacao.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\obj\Debug\Iniciacao.WebApi.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\obj\Debug\Iniciacao.WebApi.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.Data.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\EntityFramework.dll
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\Iniciacao.Data.pdb
+C:\Users\Lucas\Documents\Mackenzie\Iniciacao\Iniciacao.WebApi\bin\EntityFramework.xml
